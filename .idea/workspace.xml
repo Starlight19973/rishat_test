@@ -5,70 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b9b99c3-33d4-4da2-be34-98b59ee7ca7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/REQUESTED" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn-21.2.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/app/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/app/pasterapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/app/wsgiapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/arbiter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/glogging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/body.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/unreader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/http/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/instrument/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/instrument/statsd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/pidfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/reloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/sock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/systemd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/base_async.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/geventlet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/ggevent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/gthread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/gtornado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/sync.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/gunicorn/workers/workertmp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/LICENSE.APACHE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/LICENSE.BSD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging-23.2.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/_elffile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/_manylinux.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/_musllinux.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/_structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/_tokenizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/markers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/metadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/py.typed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/requirements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/specifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Lib/site-packages/packaging/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/gunicorn.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rishat/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rishat/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rishat/rishat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rishat/rishat/settings.py" afterDir="false" />
@@ -87,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rishat" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
