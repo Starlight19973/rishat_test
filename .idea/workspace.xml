@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b9b99c3-33d4-4da2-be34-98b59ee7ca7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rishat/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rishat/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rishat/rishat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rishat/rishat/settings.py" afterDir="false" />
